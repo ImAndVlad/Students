@@ -22,5 +22,9 @@ public class Student {
 
     private String surname;
 
-    private String date;
+    private int year;
+
+    private int month;
+
+    private int day;
 }
